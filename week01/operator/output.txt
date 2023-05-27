@@ -1,5 +1,0 @@
- add=23
- minus=-17
- mult=60
- div=6.00
- mod=2
